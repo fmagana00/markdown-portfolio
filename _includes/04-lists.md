@@ -1,3 +1,3 @@
-*sushi
-*steak
-*burgers
+* sushi
+* steak
+* burgers
